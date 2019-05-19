@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<!DOCTYPE series SYSTEM "C:\Users\belen\Desktop\proyectolm.dtd">
+
+
+<series>
+	<serie>
+		<nombre>Black Mirror</nombre>
+		<genero>Ciencia ficción</genero>
+	</serie>
+	<serie anio_inicio="2005">
+		<nombre>Doctor Who</nombre>
+		<genero>Fantasía</genero>
+	</serie>
+	<serie anio_inicio="2017">
+		<nombre>The Handmaid's Tale</nombre>
+		<genero>Drama</genero>
+	</serie>
+	<serie anio_inicio="">
+		<nombre>The IT Crowd</nombre>
+		<genero>Comedia</genero>
+	</serie>
+	<serie>
+		<nombre>Jane the virgin</nombre>
+		<genero>Comedia</genero>
+	</serie>
+	<serie>
+		<nombre>The Leftovers</nombre>
+		<genero>Misterio</genero>
+	</serie>
+	<serie anio_inicio="2015">
+		<nombre>Mr. Robot</nombre>
+		<genero>Thriller</genero>
+	</serie>
+	<serie>
+		<nombre>Peaky Blinders</nombre>
+		<genero>Drama</genero>
+	</serie>
+	<serie>
+		<nombre>Rick y Morty</nombre>
+		<genero>Comedia</genero>
+	</serie>
+	<serie>
+		<nombre>Sherlock</nombre>
+		<genero>Misterio</genero>
+	</serie>
+	<serie>
+		<nombre>Stranger things</nombre>
+		<genero>Ciencia ficción</genero>
+	</serie>
+	<serie>
+		<nombre>Westworld</nombre>
+		<genero>Ciencia ficción</genero>
+	</serie>
+</series>
