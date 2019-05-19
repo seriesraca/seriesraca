@@ -1,0 +1,57 @@
+{
+  "series": {
+    "serie": [
+      {
+        "nombre": "Black Mirror",
+        "genero": "ciencia ficción"
+      },
+      {
+        "-anio_inicio": "2005",
+        "nombre": "Doctor Who",
+        "genero": "Fantasía"
+      },
+      {
+        "-anio_inicio": "2017",
+        "nombre": "The Handmaid's Tale",
+        "genero": "Drama"
+      },
+      {
+        "nombre": "The IT Crowd",
+        "genero": "Comedia"
+      },
+      {
+        "nombre": "Jane the virgin",
+        "genero": "Comedia"
+      },
+      {
+        "nombre": "The Leftovers",
+        "genero": " misterio"
+      },
+      {
+        "-anio_inicio": "2015",
+        "nombre": "Mr. Robot",
+        "genero": "Thriller"
+      },
+      {
+        "nombre": "Peaky Blinders",
+        "genero": "Drama"
+      },
+      {
+        "nombre": "Rick y Morty",
+        "genero": "Comedia"
+      },
+      {
+        "nombre": "Sherlock",
+        "genero": "Intriga"
+      },
+      {
+        "nombre": "Stranger things",
+        "genero": "Ciencia ficción"
+      },
+      {
+        "nombre": "Westworld",
+        "genero": "Ciencia ficción"
+      }
+    ]
+  }
+}
